@@ -1,7 +1,7 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
 ### DATE: 28.08.2026
 ### NAME: AGASH S
-### REG NO: 212224040240
+### REG NO: 212224040014
 
 
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
